@@ -5,7 +5,7 @@ Developer: Yining Jiang
 
 Publication: XXX
 
-User should email to the corresponding author of the paper: Professor Simon Scheuring (sis2019@med.cornell.edu) for any detail about this work.
+User should email to the corresponding author of the paper for details about this work: Professor Simon Scheuring (sis2019@med.cornell.edu)
 
 NOTE: at this stage, the code is for peer review only.
 
