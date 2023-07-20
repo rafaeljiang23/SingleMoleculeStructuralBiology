@@ -55,4 +55,4 @@ A test data (HS-AFM movie of an isolated cytoplasmic GltPh for ~30s, ~300 frames
 These tests are expected to run for less than 30 minutes for demo on a "normal" desktop computer following the instructions provided in the main scripts.
 
 ## Instruction for use
-User should flatten and align the HS-AFM data (of an isolated individual membrane protein), which should be read in MATLAB and saved as a "data" variable. User should adjust the parameters in the main scripts accourding to the nature of their membrane proteins of interest.
+User should flatten and align the HS-AFM data (of an isolated individual membrane protein), which should be read in MATLAB as the 'data' variable. User should adjust the parameters in the main scripts accourding to the nature of their membrane proteins of interest.
