@@ -48,7 +48,8 @@ User should follow the order to run the main scripts. Operation details are prov
 User should follow the order to run the main scripts. Operation details are provided within the scripts.
 
 ### Test data
-A test data (HS-AFM movie of an isolated cytoplasmic GltPh for ~30s, ~300 frames) is provided in PO_test.mat file. Two outcome files are provided (PO_test_sort_outcome.mat and PO_test_lafm_outcome.mat) to give important outcome files from the test data. Note that the sorting result may slightly vary due to the randomized intial conditions used in the Gaussian Mixture Models clustering operation, but the outcomes should not change much. These tests are expected to run for less than 30 minutes for demo on a "normal" desktop computer following the instructions provided in the main scripts.
+A test data (HS-AFM movie of an isolated cytoplasmic GltPh for ~30s, ~300 frames) is provided in PO_test.mat file. Two outcome files are provided (PO_test_sort_outcome.mat and PO_test_lafm_outcome.mat) to give important outcome files from the test data. Note that the sorting result may slightly vary due to the randomized intial conditions used in the Gaussian Mixture Models clustering operation, but the outcomes should not change much. Besides, the LAFM detection density (normalized) volume data, 'voxels_hsn', in 'PO_test_lafm_outcome.mat' corresponds to the IFS open state of GltPh. 
+These tests are expected to run for less than 30 minutes for demo on a "normal" desktop computer following the instructions provided in the main scripts.
 
 ## Instruction for use
 User should flatten and align the HS-AFM data (of an isolated individual membrane protein), which should be read in MATLAB and saved as a "data" variable. User should adjust the parameters in the main scripts accourding to the nature of their membrane proteins of interest.
