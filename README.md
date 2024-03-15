@@ -1,4 +1,4 @@
-# SingleMoleculeStructrualBiology
+# SingleMoleculeStructuralBiology
 This is a workflow to analyze isolated single membrane transporters (GltPh) from HS-AFM experiments. The codes are developed in BIO-AFM-LAB at Weill Cornell Medicine
 
 Developer: Yining Jiang
