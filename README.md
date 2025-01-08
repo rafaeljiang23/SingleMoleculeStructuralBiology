@@ -3,7 +3,7 @@ This is a workflow to analyze isolated single membrane transporters (GltPh) from
 
 Developer: Yining Jiang
 
-Publication: Jiang, Y., Miyagi, A., Wang, X. et al. HS-AFM single-molecule structural biology uncovers basis of transporter wanderlust kinetics. Nat Struct Mol Biol 31, 1286–1295 (2024).  https://doi.org/10.1038/s41594-024-01260-3
+Publication: Jiang, Y et al. HS-AFM single-molecule structural biology uncovers basis of transporter wanderlust kinetics. Nat Struct Mol Biol 31, 1286–1295 (2024).  https://doi.org/10.1038/s41594-024-01260-3
 
 User should email to the corresponding author of the paper for details about this work: Professor Simon Scheuring (sis2019@med.cornell.edu)
 
